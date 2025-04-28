@@ -19,16 +19,16 @@ body{
     color: #ffffff;
     text-transform: uppercase;
     /* display: block; */
-    margin: 0 0.93 px 0;
+    margin: 0 0 1.25rem 0;
 }
 
 #color{
     background: none;
     font-size: 1.5rem;
     color: #ffffff;
-    border: 5.33px solid #ffffff;
-    border-radius: 1.562px; 
-    padding: 1.6px 1.066px 1.6px 0.937px;
+    border: 0.1875rem solid #ffffff;
+    border-radius: 1.5625rem; 
+    padding: 0.625rem 0.9375rem 0.625rem 0.9375rem;
     outline: none;  
     cursor: pointer;
 }
